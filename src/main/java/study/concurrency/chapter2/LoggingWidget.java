@@ -1,4 +1,4 @@
-package study.concurrency.chapter3;
+package study.concurrency.chapter2;
 
 public class LoggingWidget extends Widget {
     @Override
